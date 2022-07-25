@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #F9A400;
+  margin: 0;
+}
+.imgmain {
+  height:254px;
+  width:autopx;
+}
+
+ .main-content {
+    width: 80%
+    }
+  .box {
+    display: inline-block;
+    width: 49vw;
+    verticle-align: top;
+    }
